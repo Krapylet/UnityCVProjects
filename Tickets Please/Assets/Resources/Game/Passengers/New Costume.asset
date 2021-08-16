@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67620e36d875a0439a6a3cb6b58216a, type: 3}
+  m_Name: New Costume
+  m_EditorClassIdentifier: 
+  head: {fileID: 11400000, guid: 9cc427a1dadb4844b949867d0a69592b, type: 2}
+  body: {fileID: 11400000, guid: 5349bd71657ed4a4b8e6a46d6bdf2d19, type: 2}
+  feet: {fileID: 11400000, guid: db3cb703e2740854a8b2f41dfe81f5d3, type: 2}
+  eyebrow: {fileID: 11400000, guid: e1850baddb01b074b8ca68e7f177a98b, type: 2}
+  beard: {fileID: 11400000, guid: 3cc11e33990f20449ac46737899f5686, type: 2}
+  hat: {fileID: 11400000, guid: cce1ef2024be9174ba9cc3fa33bb1b20, type: 2}

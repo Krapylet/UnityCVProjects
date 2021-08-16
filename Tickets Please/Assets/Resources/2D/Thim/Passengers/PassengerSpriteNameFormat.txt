@@ -1,0 +1,10 @@
+WalkL - Shirt 5
+BackWalkL - Shirt 5
+IdleL - Shirt 5
+
+WalkR - Shirt 5
+BackWalkR - Shirt 5
+IdleR - Shirt 5
+
+SitL - Shirt 5
+SitR - Shirt 5

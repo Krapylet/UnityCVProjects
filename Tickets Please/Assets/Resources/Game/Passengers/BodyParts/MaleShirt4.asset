@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: MaleShirt4
+  m_EditorClassIdentifier: Assembly-CSharp::CostumePart
+  anims:
+  - name: BackWalkL
+    sprites:
+    - {fileID: 21300000, guid: 5ebcb7bcc38294c4faaf770992005af2, type: 3}
+    - {fileID: 21300002, guid: 5ebcb7bcc38294c4faaf770992005af2, type: 3}
+    - {fileID: 21300004, guid: 5ebcb7bcc38294c4faaf770992005af2, type: 3}
+    - {fileID: 21300006, guid: 5ebcb7bcc38294c4faaf770992005af2, type: 3}
+  - name: BackWalkR
+    sprites:
+    - {fileID: 21300000, guid: 20b2bf3d70f2a444e9af1ae8e729a1e6, type: 3}
+    - {fileID: 21300002, guid: 20b2bf3d70f2a444e9af1ae8e729a1e6, type: 3}
+    - {fileID: 21300004, guid: 20b2bf3d70f2a444e9af1ae8e729a1e6, type: 3}
+    - {fileID: 21300006, guid: 20b2bf3d70f2a444e9af1ae8e729a1e6, type: 3}
+  - name: IdleL
+    sprites:
+    - {fileID: 21300000, guid: 120ca60b88772d5448c1060ebe0104c3, type: 3}
+    - {fileID: 21300002, guid: 120ca60b88772d5448c1060ebe0104c3, type: 3}
+    - {fileID: 21300004, guid: 120ca60b88772d5448c1060ebe0104c3, type: 3}
+    - {fileID: 21300006, guid: 120ca60b88772d5448c1060ebe0104c3, type: 3}
+  - name: IdleR
+    sprites:
+    - {fileID: 21300000, guid: 761aaf3d0aa71d2459ed478e89a57778, type: 3}
+    - {fileID: 21300002, guid: 761aaf3d0aa71d2459ed478e89a57778, type: 3}
+    - {fileID: 21300004, guid: 761aaf3d0aa71d2459ed478e89a57778, type: 3}
+    - {fileID: 21300006, guid: 761aaf3d0aa71d2459ed478e89a57778, type: 3}
+  - name: SitL
+    sprites:
+    - {fileID: 21300000, guid: dc5e59077941b644f973a54cd4027d97, type: 3}
+    - {fileID: 21300002, guid: dc5e59077941b644f973a54cd4027d97, type: 3}
+    - {fileID: 21300004, guid: dc5e59077941b644f973a54cd4027d97, type: 3}
+    - {fileID: 21300006, guid: dc5e59077941b644f973a54cd4027d97, type: 3}
+  - name: SitR
+    sprites:
+    - {fileID: 21300000, guid: cc37551fbb9658449889a9310861a253, type: 3}
+    - {fileID: 21300002, guid: cc37551fbb9658449889a9310861a253, type: 3}
+    - {fileID: 21300004, guid: cc37551fbb9658449889a9310861a253, type: 3}
+    - {fileID: 21300006, guid: cc37551fbb9658449889a9310861a253, type: 3}
+  - name: WalkL
+    sprites:
+    - {fileID: 21300000, guid: 98c276cedb60a7e4e9b824a2f7c2ab94, type: 3}
+    - {fileID: 21300002, guid: 98c276cedb60a7e4e9b824a2f7c2ab94, type: 3}
+    - {fileID: 21300004, guid: 98c276cedb60a7e4e9b824a2f7c2ab94, type: 3}
+    - {fileID: 21300006, guid: 98c276cedb60a7e4e9b824a2f7c2ab94, type: 3}
+  - name: WalkR
+    sprites:
+    - {fileID: 21300000, guid: bf1d6e6e16f2a3942844f8ea75c45efd, type: 3}
+    - {fileID: 21300002, guid: bf1d6e6e16f2a3942844f8ea75c45efd, type: 3}
+    - {fileID: 21300004, guid: bf1d6e6e16f2a3942844f8ea75c45efd, type: 3}
+    - {fileID: 21300006, guid: bf1d6e6e16f2a3942844f8ea75c45efd, type: 3}
+  chance: 0
