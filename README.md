@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/37876827/129507773-c9747925-46c1-4f6f-9494-523be7c9f29e.mp4
 
-Jeg udviklede Tickets Please sammen med 3 andre arrangører fra GDC remotely. Teamet bestod af 1 2d kunster, 1 lydmand og 2 programmører og blev udviklet i vores fritid over en måned i starten af 2019. Projektet var en del af 2d'erens eksamensprojekt, og fokusset for projektet blev derfor at lave et minimum viable product rent gameplay messigt, og så ellers have et stort fokus på spillets grafiske udtryk. I den sammenhæng blev der implementeret et custom tool i unity der lod 2d'eren at automatisk generere passagererne ud fra grupper af kompatible krops- og beklædningstyper. Det blev vist ikke udnyttet i det endelige build, men ligger stadig inde i unity projektet.
+Jeg udviklede Tickets Please sammen med 3 andre arrangører fra GDC remotely. Teamet bestod af 1 2d kunster, 1 lydmand og 2 programmører og blev udviklet i vores fritid over en måned i starten af 2019. Projektet var en del af 2d'erens eksamensprojekt, og fokusset for projektet blev derfor at lave et minimum viable product rent gameplaymessig, og så ellers have et stort fokus på spillets grafiske udtryk. I den sammenhæng blev der implementeret et custom tool i unity der lod 2d'eren at automatisk generere passagererne ud fra grupper af kompatible krops- og beklædningstyper. Det blev vist ikke udnyttet i det endelige build, men ligger stadig inde i unity projektet.
 
 Der ligger både et build og alle source filerne i dette repo.
 ## Spil instruktioner
