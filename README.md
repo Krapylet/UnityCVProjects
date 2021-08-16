@@ -6,12 +6,12 @@ Jeg udviklede Tickets Please sammen med 3 andre arrangører fra GDC remotely. Te
 Der ligger både et build og alle source filerne i dette repo.
 ## Spil instruktioner
 Gå - wasd
+
 interager med passager - e
 
 Når du interagerer med en passager får du deres billet og pas. Du skal nu finde ud af om deres billet er gyldig ved at se om alder passer, om de har fået det korrekte segel og om navnet passer.
 For at give en bøde trækker du blot bøden hen til biletten. Træk tilsvarende hulmaskinen til billeten hvis den er gyldig. (I Det her build er det vidst kun alder der tæller for om en billet er gyldig eller ej)
 
-Hvis du giver en forkert bedømmelse 3 gange taber du spillet.
-
+https://user-images.githubusercontent.com/37876827/129507773-c9747925-46c1-4f6f-9494-523be7c9f29e.mp4
 
 
